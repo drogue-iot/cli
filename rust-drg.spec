@@ -52,5 +52,5 @@ Summary:        %{summary}
 %endif
 
 %changelog
-* Mon May 17 18:16:00 CEST 2021 Jean-Baptiste Trystram <jbtrystram@redhat.com> - 0.5.0-1
+* Thu May 27 11:16:00 CEST 2021 Jean-Baptiste Trystram <jbtrystram@redhat.com> - 0.5.1-1
 - Initial package
